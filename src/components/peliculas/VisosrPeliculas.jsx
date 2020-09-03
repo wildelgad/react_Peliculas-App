@@ -7,7 +7,7 @@ export default function VisorPeliculas8(){
         movies = await respuesta.json();
         return movies;
     })
-
+//esta para corregir
     return(
         <div>
             <section>
